@@ -1,0 +1,36 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Entity Framework Core
+*.db
+*.db-wal
+*.db-shm
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+.nuget/
+packages/
+.nuget/packages/
+*.nuspec
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
