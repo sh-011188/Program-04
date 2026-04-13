@@ -142,4 +142,4 @@ sh-011188
 
 ---
 
-**Última actualización:** 2024
+**Última actualización:** 2026
